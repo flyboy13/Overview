@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/hero.svg" alt="Hero image">
+<img src="https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30" alt="Hero image">
 <h1 align="center">Hi 👋, I'm Nguyen Duc Tai</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
