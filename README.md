@@ -16,5 +16,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyboy13&layout=donut)](https://github.com/flyboy13/README)
 
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
+<img src="https://github.com/flyboy13/flyboy13/blob/main/wave.svg" width="100%" height="150">
 
