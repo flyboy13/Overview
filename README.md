@@ -1,5 +1,5 @@
 ![header align="center"](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&length=500&height=100&section=header&fontSize=900)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&length=500&height=150&section=header&fontSize=900)
 <h1 align="center">Hi 👋, I'm Nguyen Duc Tai</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
