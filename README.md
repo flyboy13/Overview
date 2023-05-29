@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,50)
+![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,5,2,5,30)
 <h1 align="center">Hi 👋, I'm Nguyen Duc Tai</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
